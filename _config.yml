@@ -1,1 +1,4 @@
-_config
+title: Charis Oneyemi
+logo: [!https://github.com/Tsemaye/portfolio/raw/main/Charis2.JPG]
+#show_downloads: true
+theme: jekyll-theme-minimal
